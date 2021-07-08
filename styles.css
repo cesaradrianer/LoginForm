@@ -11,4 +11,7 @@ body {
     width: 600px;
     display: flex;
     justify-content: center;
+    border-radius: 8px;
+    border-style: solid;
+    padding: 2em;
 }
