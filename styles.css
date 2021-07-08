@@ -1,0 +1,14 @@
+body {
+    background-color: aquamarine;
+    font-family: Georgia;
+    display: flex;
+    justify-content: center;
+}
+
+#form {
+    background-color: white;
+    text-align: center;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+}
